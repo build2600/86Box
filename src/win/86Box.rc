@@ -345,6 +345,7 @@ END
 #include "languages/zh-CN.rc"
 #include "languages/cs-CZ.rc"
 #include "languages/de-DE.rc"
+#include "languages/el-GR.rc"
 #include "languages/en-US.rc"
 #include "languages/en-GB.rc"
 #include "languages/fr-FR.rc"

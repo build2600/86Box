@@ -424,8 +424,9 @@ set_language(uint32_t id)
 
 extern "C++" {
 QMap<uint32_t, QPair<QString, QString>> ProgSettings::lcid_langcode = {
-    {0x0405,  { "cs-CZ", "Czech (Czech Republic)" }  },
+    { 0x0405, { "cs-CZ", "Czech (Czech Republic)" }  },
     { 0x0407, { "de-DE", "German (Germany)" }        },
+    { 0x0408, { "el-GR", "Greek (Greece)" }          },
     { 0x0409, { "en-US", "English (United States)" } },
     { 0x0809, { "en-GB", "English (United Kingdom)" }},
     { 0x0C0A, { "es-ES", "Spanish (Spain)" }         },
